@@ -1,5 +1,5 @@
 # Autor: Daniel Guimarães
-# Data: 2021-09-30
+# Data: 03/03/2025
 
 # Descrição: Script Python para análise de dados de vendas de uma empresa fictícia. O script lê um arquivo Excel com os dados de vendas e executa diversas análises, como:
 # - Valor total de vendas por unidade
