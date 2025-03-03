@@ -13,7 +13,7 @@ Este projeto apresenta uma análise de dados de vendas da Loja Bemol, utilizando
 - [Instalação](#instalação)
 - [Como Executar](#como-executar)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Licença](#LICENSE)
 
 ---
 
@@ -101,7 +101,7 @@ Cada passo é explicado com comentários detalhados no código, facilitando o en
    ```bash
    python Daniel_Guimaraes_Trainee_Bemol_Digital.py
 
-Contribuição
+## Contribuição
 Contribuições são sempre bem-vindas! Se você deseja melhorar ou adaptar o projeto, siga os passos abaixo:
 
 Faça um fork do projeto.
